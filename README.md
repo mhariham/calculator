@@ -1,2 +1,1 @@
-# calculate
-dsc template.
+# DSC Website Template (HTML and CSS)
